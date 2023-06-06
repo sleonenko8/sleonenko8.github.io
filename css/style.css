@@ -1,0 +1,32 @@
+
+.back{
+    background-color: white
+    
+             
+}
+.container{
+    display: flex;
+    margin: 17px auto;
+    justify-content: space-between;
+    width: 80%;
+    
+    
+}
+.menu{
+    display: flex;
+    justify-content:space-around;
+    flex: 8;
+    color: rgb(71, 141, 1);
+}
+
+.logo{
+    flex: 1;
+    
+
+
+}
+.sing{
+    display: flex;
+    flex: 4;
+    justify-content: space-around;
+}
